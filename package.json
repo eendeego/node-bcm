@@ -1,0 +1,26 @@
+{
+  "name": "bcm",
+  "version": "0.0.0",
+  "description": "Node bindings for bcm (Raspberry Pi) libraries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/luismreis/node-bcm.git"
+  },
+  "keywords": [
+    "raspberry-pi",
+    "rpi",
+    "bcm",
+    "videocore",
+    "vc"
+  ],
+  "author": "Luis Reis <luis@luismreis.com> (http://luismreis.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luismreis/node-bcm/issues"
+  },
+  "homepage": "https://github.com/luismreis/node-bcm"
+}
